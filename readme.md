@@ -32,4 +32,4 @@ i will upload them in my github.
 [github](https://github.com/stellarawat/week-2-project/tree/master)
  
 ## copyright and license information 
-[license](LICENSE.md/license.md)
+[license](license.md)
