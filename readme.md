@@ -82,8 +82,10 @@ If you would like to edit the page or customize it, you will need to install a c
 
 # CONTACT DETAILS
 
-name: stellarawat 
+name: stellarawat
+ 
 phone: 0745069814
+
 email: stella.njuguna@student.moringaschool.com
 
 # BDD
