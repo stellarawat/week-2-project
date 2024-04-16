@@ -29,7 +29,7 @@ GET TO KNOW ME.
 i will upload them in my github.
 
 ## link to a live site on github:⛓️
-[github]()
+[github](https://github.com/stellarawat/week-2-project/tree/master)
  
 ## copyright and license information 
 [license](LICENSE.md/license.md)
