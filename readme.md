@@ -1,12 +1,12 @@
 # 1.INTRODUCTION 
 hello,welcome to my project🎉🎉🎉
 
-## AUTHOR'S NAME
+# AUTHOR'S NAME
 🩵**Stellarawat Waithira Njuguna.**🩵
-![image](< >)
+![image](< images/Black Pink Bold Elegant Monogram Personal Brand Logo (1).png>)
 
 # PROJECT DESCRIPTION
-## WHAT IS YOUR AKAN NAMES .
+## what are your Akan names .
 ***Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana.***
 
 ## Description
@@ -50,16 +50,16 @@ Most people do know when their birthdays are, but some might not know what day o
 
  User requests to be able to:
 
- a) Enter my birthday through a form.
+ .Enter my birthday through a form.
 
- b)Choose what gender I am.
+ .Choose what gender I am.
 
 
 ## Setup/Installation Requirements
  The application should check whether the date and month entered is valid.
         -Open the code with VSCode
         -Enter dates that are valid as per the annual calender
-        - Go Live
+
 To use the web app, go to this link. All you will need is a web browser. The website is screen-responsive, so you can use it easily on a mobile device or tablet.
 
 If you would like to edit the page or customize it, you will need to install a code editor, preferably Visual Studio Code.
@@ -68,6 +68,8 @@ If you would like to edit the page or customize it, you will need to install a c
  i will be using vs code.
 
 i will upload them in my github.
+
+you can see it on my live link 
 
 ## Technologies Used
 
