@@ -3,7 +3,7 @@ hello,welcome to my project🎉🎉🎉
 
 
 # WHAT IS YOUR AKAN NAMES .
-#### Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana, {06 October 2022}
+** Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana.**
 
 ## author's name
 🩵**Stellarawat Waithira Njuguna.**🩵
