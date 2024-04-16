@@ -1,13 +1,13 @@
 # 1.INTRODUCTION 
 hello,welcome to my project🎉🎉🎉
 
-
-# WHAT IS YOUR AKAN NAMES .
-** Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana.**
-
-## author's name
+## AUTHOR'S NAME
 🩵**Stellarawat Waithira Njuguna.**🩵
-![image](<images/Pink White Black Watercolor Paint Brush Handwriting Feminine  Beauty Youtube Channel Art.png>)
+![image](< >)
+
+# PROJECT DESCRIPTION
+## WHAT IS YOUR AKAN NAMES .
+***Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana.***
 
 ## Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
