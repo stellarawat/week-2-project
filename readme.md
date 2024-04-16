@@ -1,35 +1,83 @@
 # 1.INTRODUCTION 
-hello,welcome to my project. 
+hello,welcome to my project🎉🎉🎉
 
-## project name:😂
-GET TO KNOW ME.
+
+# WHAT IS YOUR AKAN NAMES .
+#### Most people dont know their DAY of birth hence reason to get Akan names as they know day of birth in Ghana, {06 October 2022}
 
 ## author's name
-**Stellarawat Waithira Njuguna.**
+🩵**Stellarawat Waithira Njuguna.**🩵
 ![image](<images/Pink White Black Watercolor Paint Brush Handwriting Feminine  Beauty Youtube Channel Art.png>)
 
-## description of the project:📖
-*my project entails:*
- 
--my name.
+## Description
+This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
- -my image.
+Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
- -about me.
+Males👦🏽
 
- -my background(education,work).
+Sunday: Kwasi
 
- -why i chose programming as my course,
- hobbies and skills i have. 
+Monday: Kwadwo
 
+Tuesday: Kwabena
+
+Wednesday: Kwaku
+
+Thursday:  Yaw
+
+Friday: Kofi
+
+Saturday: Kwame
+
+Females👩🏽
+
+Sunday: Akosua
+
+Monday: Adwoa
+
+Tuesday: Abenaa
+
+Wednesday: Akua
+
+Thursday:  Yaa
+
+Friday: Afua
+
+Saturday: Ama
+
+Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date. This application is built for this USER STORY
+
+ User requests to be able to:
+
+ a) Enter my birthday through a form.
+
+ b)Choose what gender I am.
+
+
+## Setup/Installation Requirements
+ The application should check whether the date and month entered is valid.
+        -Open the code with VSCode
+        -Enter dates that are valid as per the annual calender
+        - Go Live
+To use the web app, go to this link. All you will need is a web browser. The website is screen-responsive, so you can use it easily on a mobile device or tablet.
+
+If you would like to edit the page or customize it, you will need to install a code editor, preferably Visual Studio Code.
 
 ## project setup instruction
  i will be using vs code.
 
 i will upload them in my github.
 
+## Technologies Used
+
+* CSS
+* Java script
+* Html
+
+
 ## link to a live site on github:⛓️
 [github](https://github.com/stellarawat/week-2-project/tree/master)
- 
+
 ## copyright and license information 
 [license](license.md)
