@@ -1,0 +1,111 @@
+body {
+    background-image: url("../img/386.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 300px;
+    text-align: center;
+    color: white;
+  }
+  
+  #content {
+    height: 100vh;
+    background-image: linear-gradient(160deg, rgba(60, 60, 60, 0.98), rgba(70, 15, 15, 0.98) 90%);
+    overflow: auto;
+    padding-bottom: 180px;
+  }
+  
+  #home-main, #main {
+    width: 100%;
+    height: 80%;
+    min-height: 500px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 0;
+  }
+  
+  #logo {
+    font-family: monospace;
+    font-size: 2.3em;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-transform: lowercase;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .lead {
+    text-align: left;
+    font-size: 1.5em;
+  }
+  #info {
+    text-align: center;
+  }
+  
+  #intro {
+    max-width: 1580px;
+  }
+  #exit {
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    margin-left: 10%;
+    /* margin-left: 88%;
+    margin-top: 5%; */
+    /* position: absolute; */
+  }
+  
+  .custom {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  a:visited, a:link, .error {
+    color: #ffacb4;
+  }
+  a:hover, a:active{
+    color: #ce1126;
+    text-decoration: underline;
+  }
+  
+  .form-check-inline {
+    font-size: 1.8em;
+    margin: 30px;
+  }
+  
+  [type=radio] {
+    height: 20px;
+    width: 20px;
+  }
+  .btn {
+    font-size: 1.2em;
+  }
+  
+  .navbar {
+    margin-bottom: 60px;
+  }
+  .avatar {
+    min-width: 350px;
+    max-width: 400px;
+    border: none;
+  }
+  
+  @media (max-width: 768px) {
+    body{font-size: 12px;}
+    .lead{font-size: 20px; font-weight: 400; text-align: justify;}
+    .display-3{font-size: 30px; font-weight: 500;}
+    .container{padding: 0;}
+    .form-check-inline{margin: 10px;}
+    [for=male],[for=female]{font-size: 20px;}
+    [type=radio]{height: 13px; width: 13px;}
+    h1{font-size: 30px;}
+    #logo{font-size: 35px;}
+    .error{font-size: 1.3em;}
+    #exit{height: 20px; width: 20px;}
+    #intro{max-width: 700px;}
+    .navbar {margin-bottom: 0; padding: 0;}
+    #content{padding: 0;}
+  }
